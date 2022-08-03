@@ -1,5 +1,5 @@
 # Getting Nucleotide sequences from genes of interest
-Tutorial for GECO
+In progress tutorial for GECO
 
 ## 1. BLAST genes against genomes
 Find the protein sequence of the desired gene. Lets use MC1R for this example. Go onto 
